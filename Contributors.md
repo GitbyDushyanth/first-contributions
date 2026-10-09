@@ -111,6 +111,7 @@ scandi
 -[StarFish]
 Trishant Jaiswal
 Nick
+Dushyanth
 -[Yash Lund](https://github.com/yashlund05)
 -[Chaitanya Medidar](https://github.com/chaitanyamedidar)
 -[Kaush Mendonca](https://github.com/slowanimals)
